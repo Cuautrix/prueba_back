@@ -1,0 +1,94 @@
+BANJERCITO|019|Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo
+IXE|032|IXE Banco, S.A., Institución de Banca Múltiple, IXE Grupo Financiero
+MIFEL|042|Banca Mifel, S.A., Institución de Banca Múltiple, Grupo Financiero Mifel
+SANTANDER|014|Banco Santander (México), S.A., Institución de Banca Múltiple, Grupo Financiero Santander
+SKANDIA VIDA|623|Skandia Vida, S.A. de C.V.
+BANOBRAS|009|Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo
+AFIRME|062|Banca Afirme, S.A., Institución de Banca Múltiple
+BANCOMEXT|006|Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo
+BBVA BANCOMER|012|BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer
+HSBC|021|HSBC México, S.A., institución De Banca Múltiple, Grupo Financiero HSBC
+BAJIO|030|Banco del Bajío, S.A., Institución de Banca Múltiple
+INBURSA|036|Banco Inbursa, S.A., Institución de Banca Múltiple, Grupo Financiero Inbursa
+INTERACCIONES|037|Banco Interacciones, S.A., Institución de Banca Múltiple
+SCOTIABANK|044|Scotiabank Inverlat, S.A.
+BANREGIO|058|Banco Regional de Monterrey, S.A., Institución de Banca Múltiple, Banregio Grupo Financiero
+INVEX|059|Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero
+THE ROYAL BANK|102|The Royal Bank of Scotland México, S.A., Institución de Banca Múltiple
+TOKYO|108|Bank of Tokyo-Mitsubishi UFJ (México), S.A.
+JP MORGAN|110|Banco J.P. Morgan, S.A., Institución de Banca Múltiple, J.P. Morgan Grupo Financiero
+VE POR MAS|113|Banco Ve Por Mas, S.A. Institución de Banca Múltiple
+DEUTSCHE|124|Deutsche Bank México, S.A., Institución de Banca Múltiple
+AZTECA|127|Banco Azteca, S.A. Institución de Banca Múltiple.
+COMPARTAMOS|130|Banco Compartamos, S.A., Institución de Banca Múltiple
+BANCO FAMSA|131|Banco Ahorro Famsa, S.A., Institución de Banca Múltiple
+ACTINVER|133|Banco Actinver, S.A. Institución de Banca Múltiple, Grupo Financiero Actinver
+NAFIN|135|Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo
+BANCOPPEL|137|BanCoppel, S.A., Institución de Banca Múltiple
+CONSUBANCO|140|Consubanco, S.A. Institución de Banca Múltiple
+VOLKSWAGEN|141|Volkswagen Bank, S.A., Institución de Banca Múltiple
+CIBANCO|143|CIBanco, S.A.
+HIPOTECARIA FEDERAL|168|Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo
+GBM|601|GBM Grupo Bursátil Mexicano, S.A. de C.V. Casa de Bolsa
+VALUE|605|Value, S.A. de C.V. Casa de Bolsa
+TIBER|607|Casa de Cambio Tiber, S.A. de C.V.
+VECTOR|608|Vector Casa de Bolsa, S.A. de C.V.
+ACCIVAL|614|Acciones y Valores Banamex, S.A. de C.V., Casa de Bolsa
+FINAMEX|616|Casa de Bolsa Finamex, S.A. de C.V.
+VALMEX|617|Valores Mexicanos Casa de Bolsa, S.A. de C.V.
+MAPFRE|619|MAPFRE Tepeyac, S.A.
+PROFUTURO|620|Profuturo G.N.P., S.A. de C.V., Afore
+OACTIN|622|OPERADORA ACTINVER, S.A. DE C.V.
+ZURICH|627|Zurich Compañía de Seguros, S.A.
+SU CASITA|629|Hipotecaria Su Casita, S.A. de C.V. SOFOM ENR
+CI BOLSA|631|CI Casa de Bolsa, S.A. de C.V.
+BULLTICK CB|632|Bulltick Casa de Bolsa, S.A., de C.V.
+FINCOMUN|634|Fincomún, Servicios Financieros Comunitarios, S.A. de C.V.
+HDI SEGUROS|636|HDI Seguros, S.A. de C.V.
+AKALA|638|Akala, S.A. de C.V., Sociedad Financiera Popular
+REFORMA|642|Operadora de Recursos Reforma, S.A. de C.V., S.F.P.
+TELECOMM|647|Telecomunicaciones de México
+EVERCORE|648|Evercore Casa de Bolsa, S.A. de C.V.
+SEGMTY|651|Seguros Monterrey New York Life, S.A de C.V
+KUSPIT|653|Kuspit Casa de Bolsa, S.A. de C.V.
+UNAGRA|656|UNAGRA, S.A. de C.V., S.F.P.
+CLS|901|Cls Bank International
+INDEVAL|902|SD. Indeval, S.A. de C.V.
+LIBERTAD|670|Libertad Servicios Financieros, S.A. De C.V.
+BANSI|060|Bansi, S.A., Institución de Banca Múltiple
+BANORTE|072|Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte
+AMERICAN EXPRESS|103|American Express Bank (México), S.A., Institución de Banca Múltiple
+BAMSA|106|Bank of America  México,  S.A., Institución de Banca Múltiple, Grupo  Financiero Bank of America
+BMONEX|112|Banco Monex, S.A., Institución de Banca Múltiple
+ING|116|ING Bank (México), S.A., Institución de Banca Múltiple, ING Grupo Financiero
+CREDIT SUISSE|126|Banco Credit Suisse (México), S.A. Institución de Banca Múltiple, Grupo Financiero Credit Suisse (México)
+AUTOFIN|128|Banco Autofin México, S.A. Institución de Banca Múltiple
+BARCLAYS|129|Barclays  Bank  México,  S.A.,  Institución  de  Banca  Múltiple,  Grupo  Financiero  Barclays México
+BMULTIVA|132|Banco Multiva, S.A., Institución de Banca Múltiple, Multivalores Grupo Financiero
+WAL-MART|134|Banco Wal-Mart de México Adelante, S.A., Institución de Banca Múltiple
+INTERBANCO|136|Inter Banco, S.A. Institución de Banca Múltiple
+ABC CAPITAL|138|ABC Capital, S.A., Institución de Banca Múltiple
+UBS BANK|139|UBS Bank México, S.A., Institución de Banca Múltiple, UBS Grupo Financiero
+BBASE|145|Banco Base, S.A., Institución de Banca Múltiple
+BANSEFI|166|Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo
+MONEXCB|600|Monex Casa de Bolsa, S.A. de C.V. Monex Grupo Financiero
+MASARI|602|Masari Casa de Bolsa, S.A.
+ESTRUCTURADORES|606|Estructuradores del Mercado de Valores Casa de Bolsa, S.A. de C.V.
+B&B|610|B y B, Casa de Cambio, S.A. de C.V.
+MERRILL LYNCH|615|Merrill Lynch México, S.A. de C.V. Casa de Bolsa
+UNICA|618|Única Casa de Cambio, S.A. de C.V.
+CB ACTINVER|621|Actinver Casa de Bolsa, S.A. de C.V.
+CBDEUTSCHE|626|Deutsche Securities, S.A. de C.V. CASA DE BOLSA
+ZURICHVI|628|Zurich Vida, Compañía de Seguros, S.A.
+CB INTERCAM|630|Intercam Casa de Bolsa, S.A. de C.V.
+STERLING|633|Sterling Casa de Cambio, S.A. de C.V.
+ORDER|637|Order Express Casa de Cambio, S.A. de C.V
+CB MORGAN|640|J.P. Morgan Casa de Bolsa, S.A. de C.V. J.P. Morgan Grupo Financiero
+STP|646|Sistema de Transferencias y Pagos STP, S.A. de C.V.SOFOM ENR
+SKANDIA|649|Skandia Operadora de Fondos, S.A. de C.V.
+ASEA|652|Solución Asea, S.A. de C.V., Sociedad Financiera Popular
+SOFIEXPRESS|655|J.P. SOFIEXPRESS, S.A. de C.V., S.F.P.
+OPCIONES EMPRESARIALES DEL NOROESTE|659|OPCIONES EMPRESARIALES DEL NORESTE, S.A. DE C.V., S.F.P.
+RECAUDADORA|765|RECAUDADORA
+BANAMEX|998|Banco Nacional de México, S.A., Institución de Banca Múltiple, Grupo Financiero Banamex
+Bank of America sa|002|Bank of America sa de cv
