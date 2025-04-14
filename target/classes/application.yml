@@ -71,8 +71,8 @@ financial_system:
     endpoint: http://localhost:4200/#/auth/validar-cliente
     password-recovery-endpoint: http://localhost:4200/#/auth/cambiar-contraseña
 
-  domain: localhost
-  allowedDomain: http://localhost:4200
+  domain: prueba-front-sandy.vercel.app
+  allowedDomain: https://prueba-front-sandy.vercel.app/
 
 logging:
   level:
