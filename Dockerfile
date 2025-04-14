@@ -4,6 +4,9 @@ WORKDIR /app
 COPY . .
 RUN mvn clean package -DskipTests
 
+
+
+
 # Etapa 2: Imagen final liviana
 FROM amazoncorretto:17-alpine-jdk
 WORKDIR /app
