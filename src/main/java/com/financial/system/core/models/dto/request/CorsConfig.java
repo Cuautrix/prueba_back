@@ -13,10 +13,10 @@ public class CorsConfig {
         return new WebMvcConfigurer() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-                registry.addMapping("/storage/**")
-                        .allowedOrigins("http://localhost:4200") // Cambia si Angular está en otro dominio
-                        .allowedMethods("GET")
-                        .allowedHeaders("*");
+                registry.addMapping("/**") // Aplica a todas las rutas
+                        .allowedOrigins("*") // Permitir cualquier origen
+                        .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Métodos permitidos
+                        .allowedHeaders("*"); // Permitir todos los headers
             }
         };
     }
